@@ -69,10 +69,10 @@ namespace SwitchEnum.Test
 			VerifyCSharpFix(test, fixtest);
 		}
 
-		protected override CodeFixProvider GetCSharpCodeFixProvider()
-		{
-			return new SwitchEnumCodeFixProvider();
-		}
+//		protected override CodeFixProvider GetCSharpCodeFixProvider()
+//		{
+//			return new SwitchEnumCodeFixProvider();
+//		}
 
 		protected override DiagnosticAnalyzer GetCSharpDiagnosticAnalyzer()
 		{

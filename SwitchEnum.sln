@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchEnum", "SwitchEnum\Sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchEnum.Vsix", "SwitchEnum\SwitchEnum.Vsix\SwitchEnum.Vsix.csproj", "{03391CDC-D218-421D-B6A5-8F558C603A2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchEnum.Test", "SwitchEnum\SwitchEnum.Test\SwitchEnum.Test.csproj", "{B9D4D8BD-75D1-4263-B6D3-91536734F2D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03391CDC-D218-421D-B6A5-8F558C603A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03391CDC-D218-421D-B6A5-8F558C603A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03391CDC-D218-421D-B6A5-8F558C603A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D4D8BD-75D1-4263-B6D3-91536734F2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D4D8BD-75D1-4263-B6D3-91536734F2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D4D8BD-75D1-4263-B6D3-91536734F2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D4D8BD-75D1-4263-B6D3-91536734F2D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
